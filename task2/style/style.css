@@ -1,0 +1,8 @@
+body{
+    background-color: black;
+    width: 100%;
+}
+#fire{
+    width:15%;
+    position: relative;
+}
